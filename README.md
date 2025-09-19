@@ -29,6 +29,9 @@ This honeypot project showcases my SOC Analyst skills in threat detection and mo
 - <b>Kali</b>
 - <b>Python3</b>
 - <b>cyberops</b>
+- <b>netcat(nc)</b>
+- <b>nmap</b>
+- <b>telnet</b>
 
 <h2>Environments Used </h2>
 
